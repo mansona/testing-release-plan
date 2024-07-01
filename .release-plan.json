@@ -1,0 +1,21 @@
+{
+  "solution": {
+    "testing-release-plan": {
+      "impact": "patch",
+      "oldVersion": "1.0.0",
+      "newVersion": "1.0.1",
+      "constraints": [
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :memo: Documentation"
+        },
+        {
+          "impact": "patch",
+          "reason": "Appears in changelog section :house: Internal"
+        }
+      ],
+      "pkgJSONPath": "./package.json"
+    }
+  },
+  "description": "## Release (2024-07-01)\n\ntesting-release-plan 1.0.1 (patch)\n\n#### :memo: Documentation\n* `testing-release-plan`\n  * [#4](https://github.com/mansona/testing-release-plan/pull/4) add a description ([@mansona](https://github.com/mansona))\n  * [#3](https://github.com/mansona/testing-release-plan/pull/3) Update README.md ([@chris-testing-account](https://github.com/chris-testing-account))\n\n#### :house: Internal\n* `testing-release-plan`\n  * [#1](https://github.com/mansona/testing-release-plan/pull/1) setup release-plan ([@mansona](https://github.com/mansona))\n\n#### Committers: 2\n- Chris Manson ([@mansona](https://github.com/mansona))\n- [@chris-testing-account](https://github.com/chris-testing-account)\n"
+}
